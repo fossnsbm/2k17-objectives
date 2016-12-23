@@ -1,2 +1,3 @@
+[![Stories in Ready](https://badge.waffle.io/fossnsbm/2k17-objectives.png?label=ready&title=Ready)](https://waffle.io/fossnsbm/2k17-objectives)
 # 2k17-objectives
 This is the Repo for tracking the goals of the FOSS Community  in NSBM.
